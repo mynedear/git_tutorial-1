@@ -1,0 +1,6 @@
+mdkir final_floder
+ls
+touch ROBOT_CLASS.txt
+git add
+git remote -v origin git@github.com:https://github.com/robot-class/final.git (fetch)
+git remote -v origin git@github.com:https://github.com/robot-class/final.git (push)
